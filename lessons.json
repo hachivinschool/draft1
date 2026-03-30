@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Python cơ bản",
+    "content": "<p>Python là ngôn ngữ lập trình dễ học.</p><pre>print('Hello World')</pre>"
+  },
+  {
+    "title": "Biến và kiểu dữ liệu",
+    "content": "<p>Trong Python, biến không cần khai báo kiểu. Ví dụ:</p><pre>x = 10\ny = 'Hello'</pre>"
+  },
+  {
+    "title": "Numpy & Matplotlib cơ bản",
+    "content": "<p>Ví dụ tạo đồ thị:</p><pre>import matplotlib.pyplot as plt\nimport numpy as np\nx = np.linspace(0,10,100)\ny = np.sin(x)\nplt.plot(x,y)\nplt.show()</pre>"
+  }
+]
